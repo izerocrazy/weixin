@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <test1>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content>
+    <![CDATA[
+	欢迎订阅盒天下 For Test1
+  ]]>
+    </Content>
+  </test1>
+  <test2>
+    <MsgType><![CDATA[news]]></MsgType>
+    <Content>
+    <ArticleCount>2</ArticleCount>
+      <Articles>
+        <item>
+          <Title><![CDATA[盒天下文章 1]]></Title>
+          <Description><![CDATA[盒天下介绍文章 1]]></Description>
+          <PicUrl><![CDATA[https://mmbiz.qlogo.cn/mmbiz/MgHN2YOSymwicbkDEw3CTf0cSX6NaPHXw5JmhQEnaab0TE3bOTByQoC40rQNnxjgjO2kDlibFeJiaF8nndOEpY1TA/0]]></PicUrl>
+          <Url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzA4NjA4ODUyOQ==&mid=200051091&idx=1&sn=8a7c52aff853c1dce828c9bf91a72f85#rd]]></Url>
+        </item>
+        <item>
+          <Title><![CDATA[盒天下文章 2]]></Title>
+          <Description><![CDATA[盒天下介绍文章 2]]></Description>
+          <PicUrl><![CDATA[https://mmbiz.qlogo.cn/mmbiz/MgHN2YOSymwicbkDEw3CTf0cSX6NaPHXw5JmhQEnaab0TE3bOTByQoC40rQNnxjgjO2kDlibFeJiaF8nndOEpY1TA/0]]></PicUrl>
+          <Url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzA4NjA4ODUyOQ==&mid=200051091&idx=1&sn=8a7c52aff853c1dce828c9bf91a72f85#rd]]></Url>
+        </item>
+      </Articles>
+    </Content>
+  </test2>
+  <products>
+    <MsgType><![CDATA[news]]></MsgType>
+    <Content>
+      <ArticleCount>1</ArticleCount>
+      <Articles>
+        <item>
+          <Title><![CDATA[国内首款 数字电视+网络电视二合一 HOTS MX盒子震撼首发]]></Title>
+          <Description><![CDATA[国内首款 数字电视+网络电视二合一 HOTS MX盒子震撼首发]]></Description>
+          <PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/MgHN2YOSymyQMibuuxYUZL3Wy9cFlEuH1RZaUb7DG23GNmNEzUg9JNYWa03q1IwQOBdyxic5jiaLicolSTpKL5hPXQ/0]]></PicUrl>
+          <Url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzA4NjA4ODUyOQ==&mid=200132723&idx=1&sn=12b6d37200253552d11eec23547fca98#rd]]></Url>
+        </item>
+      </Articles>
+    </Content>
+  </products>
+  <active>
+    <MsgType><![CDATA[news]]></MsgType>
+    <Content>
+      <ArticleCount>1</ArticleCount>
+      <Articles>
+        <item>
+          <Title><![CDATA[HOTS MX邀您共享2014世界杯精彩赛事 16强预测送盒子]]></Title>
+          <Description><![CDATA[HOTS MX邀您共享2014世界杯精彩赛事 16强预测送盒子]]></Description>
+          <PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/MgHN2YOSymyQMibuuxYUZL3Wy9cFlEuH1D9icSoPtG06szEzr38p1BTYq9CBsyntShibMyk60aaJ00epUr8UN7Nbg/0]]></PicUrl>
+          <Url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzA4NjA4ODUyOQ==&mid=200132865&idx=1&sn=9a3bc148d9a64247e1c00fee5b2093de#rd]]></Url>
+        </item>
+      </Articles>
+    </Content>
+  </active>
+  <lxkf>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content>
+      <![CDATA[客服热线：0755-83285385（服务时间周一到周日9:00-18:00）
+
+客服QQ：2048001626
+
+客服邮箱： web@hhdsz.com.cn
+  ]]>
+    </Content>
+  </lxkf>
+</xml>

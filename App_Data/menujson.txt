@@ -1,0 +1,44 @@
+﻿{
+    "button": [
+        {
+            "name": "主推产品", 
+            "sub_button": [
+                {
+                    "type": "click", 
+                    "name": "产品简介", 
+                    "key": "products"
+                }, 
+                {
+                    "type": "click", 
+                    "name": "产品活动", 
+                    "key": "active"
+                }
+            ]
+        }, 
+        {
+            "type": "view", 
+            "name": "微店铺", 
+            "url": "http://wd.koudai.com/s/734480"
+        }, 
+        {
+            "name": "自助服务", 
+            "sub_button": [
+                {
+                    "type": "click", 
+                    "name": "联系客服", 
+                    "key": "lxkf"
+                }, 
+                {
+                    "type": "view", 
+                    "name": "订单查询", 
+                    "url":  "http://m.46644.com/tool/express/?tpltype=weixin"
+                }, 
+                {
+                    "type": "view", 
+                    "name": "实用工具", 
+                    "url": "http://m.46644.com/tool/?tpltype=weixin"
+                }
+            ]
+        }
+    ]
+}
